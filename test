@@ -1,4 +1,8 @@
-test3
+<<<<<<< HEAD
+test2
+=======
+test2
+>>>>>>> update-test
 test2
 third line
 add a new line in update-test branch to test
