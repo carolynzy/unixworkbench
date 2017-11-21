@@ -1,30 +1,19 @@
-# This is a large heading
+# Something about myself
 
-## This is a smaller heading
+## I'm a **biologist**
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I have a cat *DuoDuo*
+I hope I could be a great `scientist` one day
 
-- This is
-- an unordered
+But first I would like to be:
+
+- a interesting person
+- a happy person
 - list
 
-1. This is
-2. an ordered
-3. list
+And there are something I have to do:
 
-Here is `some code` in the middle of a sentence.
+1. make friends
+2. earn more money
+3. ...
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
